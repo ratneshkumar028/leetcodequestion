@@ -40,4 +40,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
