@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -61,4 +63,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
