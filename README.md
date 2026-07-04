@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,11 +77,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +98,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
