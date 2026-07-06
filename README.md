@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0001-two-sum) |
+| [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
