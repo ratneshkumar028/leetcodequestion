@@ -26,6 +26,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3110-score-of-a-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0171-excel-sheet-column-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0171-excel-sheet-column-number) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
