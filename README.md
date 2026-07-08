@@ -23,6 +23,7 @@
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,4 +127,9 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
