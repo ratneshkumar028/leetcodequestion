@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -67,6 +68,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1301-number-of-paths-with-max-score) |
 ## Memoization
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
