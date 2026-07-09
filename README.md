@@ -11,11 +11,13 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,6 +123,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
