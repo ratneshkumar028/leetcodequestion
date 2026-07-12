@@ -32,6 +32,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -164,9 +165,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
