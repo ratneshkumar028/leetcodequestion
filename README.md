@@ -177,4 +177,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
