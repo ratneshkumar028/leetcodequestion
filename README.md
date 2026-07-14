@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
@@ -81,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
@@ -175,6 +177,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
