@@ -41,6 +41,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
