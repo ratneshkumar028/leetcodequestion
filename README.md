@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
@@ -94,6 +95,7 @@
 | [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0171-excel-sheet-column-number) |
+| [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0779-k-th-symbol-in-grammar) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
@@ -123,6 +126,7 @@
 | [0198-house-robber](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
@@ -267,4 +271,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
