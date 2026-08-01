@@ -10,6 +10,7 @@
 | [0322-coin-change](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1301-number-of-paths-with-max-score) |
@@ -122,6 +123,7 @@
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
