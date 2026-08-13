@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
+| [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0322-coin-change) |
@@ -142,6 +143,7 @@
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
