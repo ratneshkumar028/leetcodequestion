@@ -22,6 +22,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -60,6 +61,7 @@
 | [1143-longest-common-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -303,6 +305,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Game Theory
 |  |
@@ -329,4 +332,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
