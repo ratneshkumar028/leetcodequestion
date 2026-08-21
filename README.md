@@ -17,6 +17,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0877-stone-game) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
 | [1140-stone-game-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
 | [1331-rank-transform-of-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1386-cinema-seat-allocation) |
@@ -69,6 +71,7 @@
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0647-palindromic-substrings) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
