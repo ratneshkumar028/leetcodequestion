@@ -66,6 +66,7 @@
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1143-longest-common-subsequence) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0779-k-th-symbol-in-grammar) |
