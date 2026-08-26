@@ -14,6 +14,7 @@
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0877-stone-game) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
+| [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
 | [1331-rank-transform-of-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -297,6 +299,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3312-sorted-gcd-pair-queries) |
