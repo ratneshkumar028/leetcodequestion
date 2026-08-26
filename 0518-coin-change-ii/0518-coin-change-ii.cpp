@@ -11,7 +11,7 @@ public:
         for( int i =n-1;i>=0;i--){
             for( int j =0;j<=amount;j++){
                 if(j>=coins[i]){
-                    dp[i][j]=dp[i+1][j];
+                    dp[i][j] = dp[i+1][j];
                     dp[i][j]+= dp[i][j-coins[i]];
                 }
             }
