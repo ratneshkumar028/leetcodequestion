@@ -16,7 +16,7 @@ public:
         int carry = 0;
         while(l1 !=nullptr || l2 !=nullptr || carry){
             int sum = carry;
-            if(l1!=nullptr){
+            if(l1!=NULL){
                 sum+=l1->val;
                 l1 = l1->next;
 
