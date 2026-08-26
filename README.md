@@ -103,6 +103,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -133,6 +134,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
@@ -163,6 +165,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
