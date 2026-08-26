@@ -7,6 +7,7 @@ public:
         for( int i=0; i<n;i++){
             int res = target - nums[i];
             if(mpp.count(res)){
+                
                 return {mpp[res],i};
             }
             mpp[nums[i]]=i;
