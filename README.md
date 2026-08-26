@@ -69,6 +69,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0091-decode-ways) |
@@ -175,6 +176,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
@@ -284,6 +286,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0647-palindromic-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -419,4 +422,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
