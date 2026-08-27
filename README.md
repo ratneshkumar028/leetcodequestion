@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
@@ -286,6 +287,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1331-rank-transform-of-an-array) |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0647-palindromic-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2486-append-characters-to-string-to-make-subsequence) |
