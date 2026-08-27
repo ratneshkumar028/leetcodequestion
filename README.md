@@ -114,18 +114,21 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
@@ -137,6 +140,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
