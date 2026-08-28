@@ -233,6 +233,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -448,4 +449,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
