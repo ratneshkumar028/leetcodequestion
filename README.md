@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
