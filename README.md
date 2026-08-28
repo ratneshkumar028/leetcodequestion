@@ -18,6 +18,7 @@
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0877-stone-game) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3312-sorted-gcd-pair-queries) |
