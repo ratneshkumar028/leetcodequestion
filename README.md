@@ -20,6 +20,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0896-monotonic-array) |
@@ -341,6 +342,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3312-sorted-gcd-pair-queries) |
