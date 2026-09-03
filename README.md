@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
+| [0120-triangle](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0198-house-robber) |
@@ -209,6 +210,7 @@
 | [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
