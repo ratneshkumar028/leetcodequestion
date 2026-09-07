@@ -27,6 +27,7 @@
 | [0877-stone-game](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0896-monotonic-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
@@ -67,6 +68,7 @@
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1386-cinema-seat-allocation) |
@@ -298,6 +300,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3286-find-a-safe-walk-through-a-grid) |
