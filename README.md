@@ -21,6 +21,7 @@
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
@@ -155,6 +156,7 @@
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2685-count-the-number-of-complete-components) |
@@ -272,6 +274,7 @@
 | [0322-coin-change](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2685-count-the-number-of-complete-components) |
@@ -282,6 +285,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2685-count-the-number-of-complete-components) |
@@ -299,6 +303,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1301-number-of-paths-with-max-score) |
