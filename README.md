@@ -95,6 +95,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0132-palindrome-partitioning-ii) |
@@ -141,6 +142,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
@@ -520,4 +523,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
