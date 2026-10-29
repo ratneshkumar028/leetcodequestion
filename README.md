@@ -31,6 +31,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
@@ -175,6 +176,7 @@
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -304,6 +306,7 @@
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2685-count-the-number-of-complete-components) |
@@ -315,6 +318,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2685-count-the-number-of-complete-components) |
@@ -334,6 +338,7 @@
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1301-number-of-paths-with-max-score) |
