@@ -1,28 +1,68 @@
+#include <vector>
+#include <algorithm>
+#include <climits>
+
 class Solution {
 public:
-    int sortableIntegers(vector<int>& nums) {
+    long long sortableIntegers(std::vector<int>& nums) {
         int n = nums.size();
-
-        vector<int> desc(n);  // desc[i]: number of descents nums[j] > nums[j + 1] with j < i
-        for (int i = 1; i < n; i++) desc[i] = desc[i - 1] + (nums[i - 1] > nums[i]);
-        vector<int> premax(n), sufmin(n);
-        inclusive_scan(nums.begin(), nums.end(), premax.begin(), [](int a, int b) { return max(a, b); });  // premax[i]: max of nums[0..i]
-        inclusive_scan(nums.rbegin(), nums.rend(), sufmin.rbegin(), [](int a, int b) { return min(a, b); });  // sufmin[i]: min of nums[i..n-1]
-        vector<bool> cut(n, true);  // cut[m]: nums[0..m-1] holds exactly the m smallest values
-        for (int m = 1; m < n; m++) cut[m] = premax[m - 1] <= sufmin[m];
-
-        auto rotatable = [&](int l, int r) {  // nums[l..r] is a rotated sorted run: at most one cyclic descent
-            return desc[r] - desc[l] + (nums[r] > nums[l]) <= 1;
-        };
-        auto sortable = [&](int k) {  // every block starts at a valid cut and can be rotated into order
-            for (int l = 0; l < n; l += k)
-                if (!cut[l] || !rotatable(l, l + k - 1)) return false;
+        
+        // Precompute suffix min only (O(n) space)
+        std::vector<int> suff_min(n + 1, INT_MAX);
+        for (int i = n - 1; i >= 0; --i) {
+            suff_min[i] = std::min(nums[i], suff_min[i + 1]);
+        }
+        
+        // Lambda to check if array can be sorted with block size k
+        auto is_sortable = [&](int k) {
+            int running_max = INT_MIN;
+            
+            for (int start = 0; start < n; start += k) {
+                int end = start + k - 1;
+                
+                // Global ordering check: max of previous blocks > min of remaining blocks
+                if (start > 0 && running_max > suff_min[start]) {
+                    return false;
+                }
+                
+                // Count internal drops within nums[start...end] on the fly
+                int drops = 0;
+                for (int i = start; i < end; ++i) {
+                    if (nums[i] > nums[i + 1]) {
+                        drops++;
+                    }
+                }
+                // Check wrap-around drop from end to start of the block
+                if (nums[end] > nums[start]) {
+                    drops++;
+                }
+                
+                if (drops > 1) {
+                    return false;
+                }
+                
+                // Update running maximum with elements from the current block
+                for (int i = start; i <= end; ++i) {
+                    running_max = std::max(running_max, nums[i]);
+                }
+            }
             return true;
         };
 
-        vector<int> divisors;
-        for (int k = 1; k <= n; k++) if (n % k == 0) divisors.push_back(k);
-        auto good = divisors | views::filter(sortable);
-        return accumulate(good.begin(), good.end(), 0);
+        long long ans = 0;
+        // Check all divisors of n
+        for (int k = 1; k * k <= n; ++k) {
+            if (n % k == 0) {
+                if (is_sortable(k)) {
+                    ans += k;
+                }
+                int other = n / k;
+                if (other != k && is_sortable(other)) {
+                    ans += other;
+                }
+            }
+        }
+        
+        return ans;
     }
 };
