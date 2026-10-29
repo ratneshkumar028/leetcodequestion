@@ -10,7 +10,7 @@ public:
         
         while (mid <= high) {
             if (nums[mid] == 0) {
-                std::swap(nums[low], nums[mid]);
+                swap(nums[low], nums[mid]);
                 low++;
                 mid++;
             } 
