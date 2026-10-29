@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
@@ -366,6 +367,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1288-remove-covered-intervals) |
@@ -384,6 +386,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0647-palindromic-substrings) |
@@ -562,4 +565,12 @@
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
