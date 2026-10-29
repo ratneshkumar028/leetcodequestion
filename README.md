@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0058-length-of-last-word) |
@@ -145,6 +146,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -535,6 +537,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
 ## Binary Indexed Tree
 |  |
