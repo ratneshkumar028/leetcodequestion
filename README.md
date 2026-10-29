@@ -62,6 +62,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -128,6 +129,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3310-remove-methods-from-project) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,6 +409,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -456,6 +461,7 @@
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -513,6 +519,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0148-sort-list) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Manacher
 |  |
 | ------- |
@@ -529,4 +536,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
