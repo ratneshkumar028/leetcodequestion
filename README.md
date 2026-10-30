@@ -40,6 +40,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1528-shuffle-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1528-shuffle-string) |
 | [1872-stone-game-viii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -118,6 +119,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1528-shuffle-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1528-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
