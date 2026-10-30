@@ -83,6 +83,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1386-cinema-seat-allocation) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -118,6 +119,7 @@
 | [1143-longest-common-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -472,6 +474,7 @@
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
