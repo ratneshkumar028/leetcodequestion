@@ -21,6 +21,7 @@
 | [0322-coin-change](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
@@ -265,6 +266,7 @@
 | [0322-coin-change](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0647-palindromic-substrings) |
@@ -461,6 +463,7 @@
 | [0022-generate-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
@@ -539,6 +542,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -590,4 +594,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
