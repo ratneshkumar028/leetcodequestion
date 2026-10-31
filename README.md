@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0039-combination-sum) |
+| [0056-merge-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0120-triangle) |
@@ -380,6 +381,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0628-maximum-product-of-three-numbers) |
@@ -582,6 +584,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
