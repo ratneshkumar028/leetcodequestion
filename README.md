@@ -179,6 +179,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -209,6 +210,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
@@ -330,6 +332,7 @@
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1448-count-good-nodes-in-binary-tree) |
