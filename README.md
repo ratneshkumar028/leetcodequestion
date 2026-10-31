@@ -63,6 +63,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -279,6 +280,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
@@ -355,6 +357,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
