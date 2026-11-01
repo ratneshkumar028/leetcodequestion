@@ -13,6 +13,7 @@
 | [0057-insert-interval](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
@@ -529,6 +531,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0853-car-fleet](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
@@ -636,4 +639,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0543-diameter-of-binary-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
