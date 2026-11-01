@@ -32,6 +32,7 @@
 | [0724-find-pivot-index](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0896-monotonic-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0953-verifying-an-alien-dictionary) |
@@ -332,6 +333,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3312-sorted-gcd-pair-queries) |
