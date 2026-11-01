@@ -180,6 +180,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -196,6 +197,7 @@
 | [0226-invert-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1254-number-of-closed-islands) |
@@ -215,6 +217,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -622,4 +625,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0494-target-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
