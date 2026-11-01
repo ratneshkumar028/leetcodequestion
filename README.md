@@ -30,6 +30,7 @@
 | [0695-max-area-of-island](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0875-koko-eating-bananas) |
@@ -172,6 +173,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
@@ -534,6 +536,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
