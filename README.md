@@ -185,6 +185,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0226-invert-binary-tree) |
@@ -202,6 +203,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0200-number-of-islands) |
@@ -227,6 +229,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0226-invert-binary-tree) |
@@ -294,6 +297,7 @@
 | [0070-climbing-stairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0152-maximum-product-subarray) |
@@ -651,6 +655,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0543-diameter-of-binary-tree) |
 ## Range Minimum/Maximum Query
 |  |
