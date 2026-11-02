@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0199-binary-tree-right-side-view) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0199-binary-tree-right-side-view) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0199-binary-tree-right-side-view) |
@@ -653,4 +656,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
