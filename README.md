@@ -75,6 +75,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3875-construct-uniform-parity-array-i) |
@@ -270,6 +271,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
