@@ -58,6 +58,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2747-count-zero-request-servers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2747-count-zero-request-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -100,6 +101,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2747-count-zero-request-servers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -454,6 +457,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ratneshkumar028/leetcodequestion/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ratneshkumar028/leetcodequestion/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ratneshkumar028/leetcodequestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
